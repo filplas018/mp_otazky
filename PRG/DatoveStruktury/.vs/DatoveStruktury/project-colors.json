@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "62d8d541-c176-4243-8f4d-1d2ce964d568": {
+      "ProjectGuid": "62d8d541-c176-4243-8f4d-1d2ce964d568",
+      "DisplayName": "DatoveStruktury",
+      "ColorIndex": 0
+    },
+    "8e903aea-c59e-41f0-8390-e8c527fc0bfd": {
+      "ProjectGuid": "8e903aea-c59e-41f0-8390-e8c527fc0bfd",
+      "DisplayName": "BinaryStrom",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

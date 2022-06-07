@@ -1,0 +1,14 @@
+C:\Users\katul\source\repos\DatoveStruktury\BinaryStrom\bin\Debug\netcoreapp3.1\BinaryStrom.exe
+C:\Users\katul\source\repos\DatoveStruktury\BinaryStrom\bin\Debug\netcoreapp3.1\BinaryStrom.deps.json
+C:\Users\katul\source\repos\DatoveStruktury\BinaryStrom\bin\Debug\netcoreapp3.1\BinaryStrom.runtimeconfig.json
+C:\Users\katul\source\repos\DatoveStruktury\BinaryStrom\bin\Debug\netcoreapp3.1\BinaryStrom.runtimeconfig.dev.json
+C:\Users\katul\source\repos\DatoveStruktury\BinaryStrom\bin\Debug\netcoreapp3.1\BinaryStrom.dll
+C:\Users\katul\source\repos\DatoveStruktury\BinaryStrom\bin\Debug\netcoreapp3.1\BinaryStrom.pdb
+C:\Users\katul\source\repos\DatoveStruktury\BinaryStrom\obj\Debug\netcoreapp3.1\BinaryStrom.csproj.AssemblyReference.cache
+C:\Users\katul\source\repos\DatoveStruktury\BinaryStrom\obj\Debug\netcoreapp3.1\BinaryStrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katul\source\repos\DatoveStruktury\BinaryStrom\obj\Debug\netcoreapp3.1\BinaryStrom.AssemblyInfoInputs.cache
+C:\Users\katul\source\repos\DatoveStruktury\BinaryStrom\obj\Debug\netcoreapp3.1\BinaryStrom.AssemblyInfo.cs
+C:\Users\katul\source\repos\DatoveStruktury\BinaryStrom\obj\Debug\netcoreapp3.1\BinaryStrom.csproj.CoreCompileInputs.cache
+C:\Users\katul\source\repos\DatoveStruktury\BinaryStrom\obj\Debug\netcoreapp3.1\BinaryStrom.dll
+C:\Users\katul\source\repos\DatoveStruktury\BinaryStrom\obj\Debug\netcoreapp3.1\BinaryStrom.pdb
+C:\Users\katul\source\repos\DatoveStruktury\BinaryStrom\obj\Debug\netcoreapp3.1\BinaryStrom.genruntimeconfig.cache
